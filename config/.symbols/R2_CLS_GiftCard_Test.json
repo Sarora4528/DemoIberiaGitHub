@@ -1,0 +1,1612 @@
+{
+    "constructors": [],
+    "externalReferences": [],
+    "id": "R2_CLS_GiftCard_Test",
+    "innerClasses": [],
+    "interfaces": [],
+    "key": "R2_CLS_GiftCard_Test",
+    "methods": [
+        {
+            "annotations": [
+                {
+                    "name": "IsTest"
+                }
+            ],
+            "location": {
+                "column": 28,
+                "line": 24
+            },
+            "modifiers": [
+                "private",
+                "static",
+                "testMethod"
+            ],
+            "name": "CrearTarjetaJan_Test",
+            "parameters": [],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        },
+        {
+            "annotations": [
+                {
+                    "name": "IsTest"
+                }
+            ],
+            "location": {
+                "column": 28,
+                "line": 70
+            },
+            "modifiers": [
+                "private",
+                "static",
+                "testMethod"
+            ],
+            "name": "CrearTarjetaFeb_Test",
+            "parameters": [],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        },
+        {
+            "annotations": [
+                {
+                    "name": "IsTest"
+                }
+            ],
+            "location": {
+                "column": 28,
+                "line": 118
+            },
+            "modifiers": [
+                "private",
+                "static",
+                "testMethod"
+            ],
+            "name": "CrearTarjetaMar_Test",
+            "parameters": [],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        },
+        {
+            "annotations": [
+                {
+                    "name": "IsTest"
+                }
+            ],
+            "location": {
+                "column": 28,
+                "line": 165
+            },
+            "modifiers": [
+                "private",
+                "static",
+                "testMethod"
+            ],
+            "name": "CrearTarjetaApr_Test",
+            "parameters": [],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        },
+        {
+            "annotations": [
+                {
+                    "name": "IsTest"
+                }
+            ],
+            "location": {
+                "column": 28,
+                "line": 212
+            },
+            "modifiers": [
+                "private",
+                "static",
+                "testMethod"
+            ],
+            "name": "CrearTarjetaMay_Test",
+            "parameters": [],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        },
+        {
+            "annotations": [
+                {
+                    "name": "IsTest"
+                }
+            ],
+            "location": {
+                "column": 28,
+                "line": 259
+            },
+            "modifiers": [
+                "private",
+                "static",
+                "testMethod"
+            ],
+            "name": "CrearTarjetaJun_Test",
+            "parameters": [],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        },
+        {
+            "annotations": [
+                {
+                    "name": "IsTest"
+                }
+            ],
+            "location": {
+                "column": 29,
+                "line": 306
+            },
+            "modifiers": [
+                "private",
+                "static",
+                "testMethod"
+            ],
+            "name": "CrearTarjetaJul_Test",
+            "parameters": [],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        },
+        {
+            "annotations": [
+                {
+                    "name": "IsTest"
+                }
+            ],
+            "location": {
+                "column": 28,
+                "line": 353
+            },
+            "modifiers": [
+                "private",
+                "static",
+                "testMethod"
+            ],
+            "name": "CrearTarjetaAug_Test",
+            "parameters": [],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        },
+        {
+            "annotations": [
+                {
+                    "name": "IsTest"
+                }
+            ],
+            "location": {
+                "column": 28,
+                "line": 400
+            },
+            "modifiers": [
+                "private",
+                "static",
+                "testMethod"
+            ],
+            "name": "CrearTarjetaSep_Test",
+            "parameters": [],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        },
+        {
+            "annotations": [
+                {
+                    "name": "IsTest"
+                }
+            ],
+            "location": {
+                "column": 28,
+                "line": 447
+            },
+            "modifiers": [
+                "private",
+                "static",
+                "testMethod"
+            ],
+            "name": "CrearTarjetaOct_Test",
+            "parameters": [],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        },
+        {
+            "annotations": [
+                {
+                    "name": "IsTest"
+                }
+            ],
+            "location": {
+                "column": 28,
+                "line": 494
+            },
+            "modifiers": [
+                "private",
+                "static",
+                "testMethod"
+            ],
+            "name": "CrearTarjetaNov_Test",
+            "parameters": [],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        },
+        {
+            "annotations": [
+                {
+                    "name": "IsTest"
+                }
+            ],
+            "location": {
+                "column": 27,
+                "line": 541
+            },
+            "modifiers": [
+                "private",
+                "static",
+                "testMethod"
+            ],
+            "name": "CrearTarjetaDec_Test",
+            "parameters": [],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        },
+        {
+            "annotations": [
+                {
+                    "name": "IsTest"
+                }
+            ],
+            "location": {
+                "column": 27,
+                "line": 588
+            },
+            "modifiers": [
+                "private",
+                "static",
+                "testMethod"
+            ],
+            "name": "CrearTarjetaNoLogin_Test",
+            "parameters": [],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        },
+        {
+            "annotations": [
+                {
+                    "name": "IsTest"
+                }
+            ],
+            "location": {
+                "column": 28,
+                "line": 630
+            },
+            "modifiers": [
+                "private",
+                "static",
+                "testMethod"
+            ],
+            "name": "CrearTarjetaError401_Test",
+            "parameters": [],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        },
+        {
+            "annotations": [
+                {
+                    "name": "IsTest"
+                }
+            ],
+            "location": {
+                "column": 28,
+                "line": 680
+            },
+            "modifiers": [
+                "private",
+                "static",
+                "testMethod"
+            ],
+            "name": "CrearTarjetaStatusErroneo_Test",
+            "parameters": [],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        },
+        {
+            "annotations": [
+                {
+                    "name": "IsTest"
+                }
+            ],
+            "location": {
+                "column": 28,
+                "line": 728
+            },
+            "modifiers": [
+                "private",
+                "static",
+                "testMethod"
+            ],
+            "name": "CrearTarjetaContador_Test",
+            "parameters": [],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        },
+        {
+            "annotations": [
+                {
+                    "name": "IsTest"
+                }
+            ],
+            "location": {
+                "column": 28,
+                "line": 776
+            },
+            "modifiers": [
+                "private",
+                "static",
+                "testMethod"
+            ],
+            "name": "exception_Test",
+            "parameters": [],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        }
+    ],
+    "name": "R2_CLS_GiftCard_Test",
+    "namespace": null,
+    "parentClass": "",
+    "properties": [],
+    "tableDeclaration": {
+        "annotations": [
+            {
+                "name": "IsTest"
+            }
+        ],
+        "location": {
+            "column": 15,
+            "line": 12
+        },
+        "modifiers": [
+            "private",
+            "testMethod"
+        ],
+        "name": "R2_CLS_GiftCard_Test",
+        "references": [],
+        "type": "R2_CLS_GiftCard_Test"
+    },
+    "variables": [
+        {
+            "annotations": [],
+            "location": {
+                "column": 34,
+                "line": 27
+            },
+            "modifiers": [],
+            "name": "lst_ep",
+            "references": [],
+            "type": "List<R1_CS_Endpoints__c>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 29
+            },
+            "modifiers": [],
+            "name": "ep",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 35
+            },
+            "modifiers": [],
+            "name": "ep2",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 43
+            },
+            "modifiers": [],
+            "name": "casoPa",
+            "references": [],
+            "type": "Case"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 17,
+                "line": 46
+            },
+            "modifiers": [],
+            "name": "acc",
+            "references": [],
+            "type": "Account"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 26,
+                "line": 49
+            },
+            "modifiers": [],
+            "name": "WO",
+            "references": [],
+            "type": "R2_Work_Order__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 55
+            },
+            "modifiers": [],
+            "name": "idWO",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 34,
+                "line": 73
+            },
+            "modifiers": [],
+            "name": "lst_ep",
+            "references": [],
+            "type": "List<R1_CS_Endpoints__c>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 75
+            },
+            "modifiers": [],
+            "name": "ep",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 81
+            },
+            "modifiers": [],
+            "name": "ep2",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 89
+            },
+            "modifiers": [],
+            "name": "casoPa",
+            "references": [],
+            "type": "Case"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 17,
+                "line": 92
+            },
+            "modifiers": [],
+            "name": "acc",
+            "references": [],
+            "type": "Account"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 26,
+                "line": 95
+            },
+            "modifiers": [],
+            "name": "WO",
+            "references": [],
+            "type": "R2_Work_Order__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 103
+            },
+            "modifiers": [],
+            "name": "idWO",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 34,
+                "line": 121
+            },
+            "modifiers": [],
+            "name": "lst_ep",
+            "references": [],
+            "type": "List<R1_CS_Endpoints__c>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 123
+            },
+            "modifiers": [],
+            "name": "ep",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 129
+            },
+            "modifiers": [],
+            "name": "ep2",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 137
+            },
+            "modifiers": [],
+            "name": "casoPa",
+            "references": [],
+            "type": "Case"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 17,
+                "line": 140
+            },
+            "modifiers": [],
+            "name": "acc",
+            "references": [],
+            "type": "Account"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 26,
+                "line": 143
+            },
+            "modifiers": [],
+            "name": "WO",
+            "references": [],
+            "type": "R2_Work_Order__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 150
+            },
+            "modifiers": [],
+            "name": "idWO",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 34,
+                "line": 168
+            },
+            "modifiers": [],
+            "name": "lst_ep",
+            "references": [],
+            "type": "List<R1_CS_Endpoints__c>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 170
+            },
+            "modifiers": [],
+            "name": "ep",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 176
+            },
+            "modifiers": [],
+            "name": "ep2",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 184
+            },
+            "modifiers": [],
+            "name": "casoPa",
+            "references": [],
+            "type": "Case"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 17,
+                "line": 187
+            },
+            "modifiers": [],
+            "name": "acc",
+            "references": [],
+            "type": "Account"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 26,
+                "line": 190
+            },
+            "modifiers": [],
+            "name": "WO",
+            "references": [],
+            "type": "R2_Work_Order__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 197
+            },
+            "modifiers": [],
+            "name": "idWO",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 34,
+                "line": 215
+            },
+            "modifiers": [],
+            "name": "lst_ep",
+            "references": [],
+            "type": "List<R1_CS_Endpoints__c>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 217
+            },
+            "modifiers": [],
+            "name": "ep",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 223
+            },
+            "modifiers": [],
+            "name": "ep2",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 231
+            },
+            "modifiers": [],
+            "name": "casoPa",
+            "references": [],
+            "type": "Case"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 17,
+                "line": 234
+            },
+            "modifiers": [],
+            "name": "acc",
+            "references": [],
+            "type": "Account"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 26,
+                "line": 237
+            },
+            "modifiers": [],
+            "name": "WO",
+            "references": [],
+            "type": "R2_Work_Order__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 244
+            },
+            "modifiers": [],
+            "name": "idWO",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 34,
+                "line": 262
+            },
+            "modifiers": [],
+            "name": "lst_ep",
+            "references": [],
+            "type": "List<R1_CS_Endpoints__c>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 264
+            },
+            "modifiers": [],
+            "name": "ep",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 270
+            },
+            "modifiers": [],
+            "name": "ep2",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 278
+            },
+            "modifiers": [],
+            "name": "casoPa",
+            "references": [],
+            "type": "Case"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 17,
+                "line": 281
+            },
+            "modifiers": [],
+            "name": "acc",
+            "references": [],
+            "type": "Account"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 26,
+                "line": 284
+            },
+            "modifiers": [],
+            "name": "WO",
+            "references": [],
+            "type": "R2_Work_Order__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 291
+            },
+            "modifiers": [],
+            "name": "idWO",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 34,
+                "line": 309
+            },
+            "modifiers": [],
+            "name": "lst_ep",
+            "references": [],
+            "type": "List<R1_CS_Endpoints__c>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 311
+            },
+            "modifiers": [],
+            "name": "ep",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 317
+            },
+            "modifiers": [],
+            "name": "ep2",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 325
+            },
+            "modifiers": [],
+            "name": "casoPa",
+            "references": [],
+            "type": "Case"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 17,
+                "line": 328
+            },
+            "modifiers": [],
+            "name": "acc",
+            "references": [],
+            "type": "Account"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 26,
+                "line": 331
+            },
+            "modifiers": [],
+            "name": "WO",
+            "references": [],
+            "type": "R2_Work_Order__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 338
+            },
+            "modifiers": [],
+            "name": "idWO",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 34,
+                "line": 356
+            },
+            "modifiers": [],
+            "name": "lst_ep",
+            "references": [],
+            "type": "List<R1_CS_Endpoints__c>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 358
+            },
+            "modifiers": [],
+            "name": "ep",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 364
+            },
+            "modifiers": [],
+            "name": "ep2",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 372
+            },
+            "modifiers": [],
+            "name": "casoPa",
+            "references": [],
+            "type": "Case"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 17,
+                "line": 375
+            },
+            "modifiers": [],
+            "name": "acc",
+            "references": [],
+            "type": "Account"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 26,
+                "line": 378
+            },
+            "modifiers": [],
+            "name": "WO",
+            "references": [],
+            "type": "R2_Work_Order__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 385
+            },
+            "modifiers": [],
+            "name": "idWO",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 34,
+                "line": 403
+            },
+            "modifiers": [],
+            "name": "lst_ep",
+            "references": [],
+            "type": "List<R1_CS_Endpoints__c>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 405
+            },
+            "modifiers": [],
+            "name": "ep",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 411
+            },
+            "modifiers": [],
+            "name": "ep2",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 419
+            },
+            "modifiers": [],
+            "name": "casoPa",
+            "references": [],
+            "type": "Case"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 17,
+                "line": 422
+            },
+            "modifiers": [],
+            "name": "acc",
+            "references": [],
+            "type": "Account"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 26,
+                "line": 425
+            },
+            "modifiers": [],
+            "name": "WO",
+            "references": [],
+            "type": "R2_Work_Order__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 432
+            },
+            "modifiers": [],
+            "name": "idWO",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 34,
+                "line": 450
+            },
+            "modifiers": [],
+            "name": "lst_ep",
+            "references": [],
+            "type": "List<R1_CS_Endpoints__c>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 452
+            },
+            "modifiers": [],
+            "name": "ep",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 458
+            },
+            "modifiers": [],
+            "name": "ep2",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 466
+            },
+            "modifiers": [],
+            "name": "casoPa",
+            "references": [],
+            "type": "Case"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 17,
+                "line": 469
+            },
+            "modifiers": [],
+            "name": "acc",
+            "references": [],
+            "type": "Account"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 26,
+                "line": 472
+            },
+            "modifiers": [],
+            "name": "WO",
+            "references": [],
+            "type": "R2_Work_Order__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 479
+            },
+            "modifiers": [],
+            "name": "idWO",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 34,
+                "line": 497
+            },
+            "modifiers": [],
+            "name": "lst_ep",
+            "references": [],
+            "type": "List<R1_CS_Endpoints__c>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 499
+            },
+            "modifiers": [],
+            "name": "ep",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 505
+            },
+            "modifiers": [],
+            "name": "ep2",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 513
+            },
+            "modifiers": [],
+            "name": "casoPa",
+            "references": [],
+            "type": "Case"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 17,
+                "line": 516
+            },
+            "modifiers": [],
+            "name": "acc",
+            "references": [],
+            "type": "Account"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 26,
+                "line": 519
+            },
+            "modifiers": [],
+            "name": "WO",
+            "references": [],
+            "type": "R2_Work_Order__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 526
+            },
+            "modifiers": [],
+            "name": "idWO",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 34,
+                "line": 544
+            },
+            "modifiers": [],
+            "name": "lst_ep",
+            "references": [],
+            "type": "List<R1_CS_Endpoints__c>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 546
+            },
+            "modifiers": [],
+            "name": "ep",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 552
+            },
+            "modifiers": [],
+            "name": "ep2",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 560
+            },
+            "modifiers": [],
+            "name": "casoPa",
+            "references": [],
+            "type": "Case"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 17,
+                "line": 563
+            },
+            "modifiers": [],
+            "name": "acc",
+            "references": [],
+            "type": "Account"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 26,
+                "line": 566
+            },
+            "modifiers": [],
+            "name": "WO",
+            "references": [],
+            "type": "R2_Work_Order__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 573
+            },
+            "modifiers": [],
+            "name": "idWO",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 33,
+                "line": 591
+            },
+            "modifiers": [],
+            "name": "lst_ep",
+            "references": [],
+            "type": "List<R1_CS_Endpoints__c>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 27,
+                "line": 593
+            },
+            "modifiers": [],
+            "name": "ep",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 601
+            },
+            "modifiers": [],
+            "name": "casoPa",
+            "references": [],
+            "type": "Case"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 17,
+                "line": 604
+            },
+            "modifiers": [],
+            "name": "acc",
+            "references": [],
+            "type": "Account"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 26,
+                "line": 607
+            },
+            "modifiers": [],
+            "name": "WO",
+            "references": [],
+            "type": "R2_Work_Order__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 614
+            },
+            "modifiers": [],
+            "name": "idWO",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 34,
+                "line": 633
+            },
+            "modifiers": [],
+            "name": "lst_ep",
+            "references": [],
+            "type": "List<R1_CS_Endpoints__c>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 635
+            },
+            "modifiers": [],
+            "name": "ep",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 641
+            },
+            "modifiers": [],
+            "name": "ep2",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 650
+            },
+            "modifiers": [],
+            "name": "casoPa",
+            "references": [],
+            "type": "Case"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 17,
+                "line": 653
+            },
+            "modifiers": [],
+            "name": "acc",
+            "references": [],
+            "type": "Account"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 26,
+                "line": 656
+            },
+            "modifiers": [],
+            "name": "WO",
+            "references": [],
+            "type": "R2_Work_Order__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 664
+            },
+            "modifiers": [],
+            "name": "idWO",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 34,
+                "line": 683
+            },
+            "modifiers": [],
+            "name": "lst_ep",
+            "references": [],
+            "type": "List<R1_CS_Endpoints__c>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 685
+            },
+            "modifiers": [],
+            "name": "ep",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 691
+            },
+            "modifiers": [],
+            "name": "ep2",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 699
+            },
+            "modifiers": [],
+            "name": "casoPa",
+            "references": [],
+            "type": "Case"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 17,
+                "line": 702
+            },
+            "modifiers": [],
+            "name": "acc",
+            "references": [],
+            "type": "Account"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 26,
+                "line": 705
+            },
+            "modifiers": [],
+            "name": "WO",
+            "references": [],
+            "type": "R2_Work_Order__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 712
+            },
+            "modifiers": [],
+            "name": "idWO",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 33,
+                "line": 731
+            },
+            "modifiers": [],
+            "name": "lst_ep",
+            "references": [],
+            "type": "List<R1_CS_Endpoints__c>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 27,
+                "line": 733
+            },
+            "modifiers": [],
+            "name": "ep",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 739
+            },
+            "modifiers": [],
+            "name": "ep2",
+            "references": [],
+            "type": "R1_CS_Endpoints__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 747
+            },
+            "modifiers": [],
+            "name": "casoPa",
+            "references": [],
+            "type": "Case"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 17,
+                "line": 750
+            },
+            "modifiers": [],
+            "name": "acc",
+            "references": [],
+            "type": "Account"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 26,
+                "line": 753
+            },
+            "modifiers": [],
+            "name": "WO",
+            "references": [],
+            "type": "R2_Work_Order__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 760
+            },
+            "modifiers": [],
+            "name": "idWO",
+            "references": [],
+            "type": "String"
+        }
+    ]
+}

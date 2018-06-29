@@ -1,0 +1,16 @@
+{
+    "projectName": "CF-SFSC-NIITKA",
+    "username": "niit.vpandey@iberia.es.niitka",
+    "id": "299e3530-63fd-11e8-a0c6-39ec2ae76b01",
+    "namespace": "",
+    "environment": "sandbox",
+    "loginUrl": "https://test.salesforce.com/",
+    "workspace": "D:\\MavenMate-Code",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

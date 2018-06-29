@@ -1,0 +1,1221 @@
+{
+    "constructors": [],
+    "externalReferences": [],
+    "id": "R2_CLS_GiftCard",
+    "innerClasses": [
+        {
+            "constructors": [],
+            "externalReferences": [],
+            "id": "WPValueType",
+            "innerClasses": [],
+            "interfaces": [],
+            "key": "WPValueType",
+            "methods": [],
+            "name": "WPValueType",
+            "namespace": null,
+            "parentClass": "",
+            "properties": [
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 15
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "amount",
+                    "references": [],
+                    "type": "String"
+                },
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 16
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "currencyCode",
+                    "references": [],
+                    "type": "String"
+                }
+            ],
+            "tableDeclaration": {
+                "annotations": [],
+                "location": {
+                    "column": 18,
+                    "line": 14
+                },
+                "modifiers": [
+                    "public"
+                ],
+                "name": "WPValueType",
+                "references": [],
+                "type": "WPValueType"
+            },
+            "variables": []
+        },
+        {
+            "constructors": [],
+            "externalReferences": [],
+            "id": "WPCardInfoType",
+            "innerClasses": [],
+            "interfaces": [],
+            "key": "WPCardInfoType",
+            "methods": [],
+            "name": "WPCardInfoType",
+            "namespace": null,
+            "parentClass": "",
+            "properties": [
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 20
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "cardStatus",
+                    "references": [],
+                    "type": "String"
+                },
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 28,
+                        "line": 21
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "value",
+                    "references": [],
+                    "type": "WPValueType"
+                }
+            ],
+            "tableDeclaration": {
+                "annotations": [],
+                "location": {
+                    "column": 18,
+                    "line": 18
+                },
+                "modifiers": [
+                    "public"
+                ],
+                "name": "WPCardInfoType",
+                "references": [],
+                "type": "WPCardInfoType"
+            },
+            "variables": []
+        },
+        {
+            "constructors": [],
+            "externalReferences": [],
+            "id": "WPGiftCardDetailsType",
+            "innerClasses": [],
+            "interfaces": [],
+            "key": "WPGiftCardDetailsType",
+            "methods": [],
+            "name": "WPGiftCardDetailsType",
+            "namespace": null,
+            "parentClass": "",
+            "properties": [
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 25
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "crmCreationRequestId",
+                    "references": [],
+                    "type": "String"
+                },
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 26
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "giftCodeId",
+                    "references": [],
+                    "type": "String"
+                },
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 27
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "giftClaimCode",
+                    "references": [],
+                    "type": "String"
+                },
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 28
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "giftCodeExpirationDate",
+                    "references": [],
+                    "type": "String"
+                },
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 31,
+                        "line": 29
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "cardInfo",
+                    "references": [],
+                    "type": "WPCardInfoType"
+                }
+            ],
+            "tableDeclaration": {
+                "annotations": [],
+                "location": {
+                    "column": 18,
+                    "line": 24
+                },
+                "modifiers": [
+                    "public"
+                ],
+                "name": "WPGiftCardDetailsType",
+                "references": [],
+                "type": "WPGiftCardDetailsType"
+            },
+            "variables": []
+        },
+        {
+            "constructors": [],
+            "externalReferences": [],
+            "id": "WPGiftCardCodeType",
+            "innerClasses": [],
+            "interfaces": [],
+            "key": "WPGiftCardCodeType",
+            "methods": [],
+            "name": "WPGiftCardCodeType",
+            "namespace": null,
+            "parentClass": "",
+            "properties": [
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 32
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "crmCreationRequestId",
+                    "references": [],
+                    "type": "String"
+                },
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 33
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "giftCodeId",
+                    "references": [],
+                    "type": "String"
+                }
+            ],
+            "tableDeclaration": {
+                "annotations": [],
+                "location": {
+                    "column": 18,
+                    "line": 31
+                },
+                "modifiers": [
+                    "public"
+                ],
+                "name": "WPGiftCardCodeType",
+                "references": [],
+                "type": "WPGiftCardCodeType"
+            },
+            "variables": []
+        },
+        {
+            "constructors": [],
+            "externalReferences": [],
+            "id": "WPCreateGiftCardWeb_Response",
+            "innerClasses": [],
+            "interfaces": [],
+            "key": "WPCreateGiftCardWeb_Response",
+            "methods": [],
+            "name": "WPCreateGiftCardWeb_Response",
+            "namespace": null,
+            "parentClass": "",
+            "properties": [
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 41
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "status",
+                    "references": [],
+                    "type": "String"
+                },
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 38,
+                        "line": 42
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "giftCard",
+                    "references": [],
+                    "type": "WPGiftCardDetailsType"
+                },
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 30,
+                        "line": 43
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "errors",
+                    "references": [],
+                    "type": "List"
+                },
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 44
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "timeout",
+                    "references": [],
+                    "type": "String"
+                }
+            ],
+            "tableDeclaration": {
+                "annotations": [],
+                "location": {
+                    "column": 18,
+                    "line": 40
+                },
+                "modifiers": [
+                    "public"
+                ],
+                "name": "WPCreateGiftCardWeb_Response",
+                "references": [],
+                "type": "WPCreateGiftCardWeb_Response"
+            },
+            "variables": []
+        },
+        {
+            "constructors": [],
+            "externalReferences": [],
+            "id": "WPCreateGiftCardWeb_Request",
+            "innerClasses": [],
+            "interfaces": [],
+            "key": "WPCreateGiftCardWeb_Request",
+            "methods": [],
+            "name": "WPCreateGiftCardWeb_Request",
+            "namespace": null,
+            "parentClass": "",
+            "properties": [
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 50
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "crmCreationRequestId",
+                    "references": [],
+                    "type": "String"
+                },
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 51
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "amount",
+                    "references": [],
+                    "type": "String"
+                },
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 52
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "currencyCode",
+                    "references": [],
+                    "type": "String"
+                }
+            ],
+            "tableDeclaration": {
+                "annotations": [],
+                "location": {
+                    "column": 18,
+                    "line": 49
+                },
+                "modifiers": [
+                    "public"
+                ],
+                "name": "WPCreateGiftCardWeb_Request",
+                "references": [],
+                "type": "WPCreateGiftCardWeb_Request"
+            },
+            "variables": []
+        },
+        {
+            "constructors": [],
+            "externalReferences": [],
+            "id": "WPError",
+            "innerClasses": [],
+            "interfaces": [],
+            "key": "WPError",
+            "methods": [],
+            "name": "WPError",
+            "namespace": null,
+            "parentClass": "",
+            "properties": [
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 56
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "code",
+                    "references": [],
+                    "type": "String"
+                },
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 57
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "reason",
+                    "references": [],
+                    "type": "String"
+                },
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 58
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "timeStamp",
+                    "references": [],
+                    "type": "String"
+                }
+            ],
+            "tableDeclaration": {
+                "annotations": [],
+                "location": {
+                    "column": 18,
+                    "line": 55
+                },
+                "modifiers": [
+                    "public"
+                ],
+                "name": "WPError",
+                "references": [],
+                "type": "WPError"
+            },
+            "variables": []
+        },
+        {
+            "constructors": [],
+            "externalReferences": [],
+            "id": "WR_GiftCard_Resp",
+            "innerClasses": [],
+            "interfaces": [],
+            "key": "WR_GiftCard_Resp",
+            "methods": [],
+            "name": "WR_GiftCard_Resp",
+            "namespace": null,
+            "parentClass": "",
+            "properties": [
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 65
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "status",
+                    "references": [],
+                    "type": "String"
+                },
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 34,
+                        "line": 66
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "lstGC",
+                    "references": [],
+                    "type": "List"
+                },
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 30,
+                        "line": 67
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "errors",
+                    "references": [],
+                    "type": "List"
+                }
+            ],
+            "tableDeclaration": {
+                "annotations": [],
+                "location": {
+                    "column": 18,
+                    "line": 64
+                },
+                "modifiers": [
+                    "public"
+                ],
+                "name": "WR_GiftCard_Resp",
+                "references": [],
+                "type": "WR_GiftCard_Resp"
+            },
+            "variables": []
+        },
+        {
+            "constructors": [],
+            "externalReferences": [],
+            "id": "WR_GiftCard",
+            "innerClasses": [],
+            "interfaces": [],
+            "key": "WR_GiftCard",
+            "methods": [],
+            "name": "WR_GiftCard",
+            "namespace": null,
+            "parentClass": "",
+            "properties": [
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 73
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "crmCreationRequestId",
+                    "references": [],
+                    "type": "String"
+                },
+                {
+                    "annotations": [],
+                    "location": {
+                        "column": 23,
+                        "line": 74
+                    },
+                    "modifiers": [
+                        "public"
+                    ],
+                    "name": "giftCodeId",
+                    "references": [],
+                    "type": "String"
+                }
+            ],
+            "tableDeclaration": {
+                "annotations": [],
+                "location": {
+                    "column": 18,
+                    "line": 72
+                },
+                "modifiers": [
+                    "public"
+                ],
+                "name": "WR_GiftCard",
+                "references": [],
+                "type": "WR_GiftCard"
+            },
+            "variables": []
+        }
+    ],
+    "interfaces": [],
+    "key": "R2_CLS_GiftCard",
+    "methods": [
+        {
+            "annotations": [],
+            "location": {
+                "column": 48,
+                "line": 85
+            },
+            "modifiers": [
+                "static",
+                "public"
+            ],
+            "name": "CrearTarjetaResponseSinWO",
+            "parameters": [
+                {
+                    "name": "autoNumberAmazon",
+                    "type": "String"
+                },
+                {
+                    "name": "amount",
+                    "type": "String"
+                },
+                {
+                    "name": "contador",
+                    "type": "Integer"
+                }
+            ],
+            "references": [],
+            "returnType": "WPCreateGiftCardWeb_Response",
+            "type": null
+        },
+        {
+            "annotations": [
+                {
+                    "name": "Future"
+                }
+            ],
+            "location": {
+                "column": 24,
+                "line": 191
+            },
+            "modifiers": [
+                "static",
+                "public"
+            ],
+            "name": "CrearTarjeta",
+            "parameters": [
+                {
+                    "name": "WO_id",
+                    "type": "String"
+                }
+            ],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 48,
+                "line": 285
+            },
+            "modifiers": [
+                "static",
+                "public"
+            ],
+            "name": "CrearTarjetaResponse",
+            "parameters": [
+                {
+                    "name": "WO_id",
+                    "type": "String"
+                },
+                {
+                    "name": "contador",
+                    "type": "Integer"
+                }
+            ],
+            "references": [],
+            "returnType": "WPCreateGiftCardWeb_Response",
+            "type": null
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 30,
+                "line": 390
+            },
+            "modifiers": [
+                "webService",
+                "static",
+                "global"
+            ],
+            "name": "cancelGiftCard",
+            "parameters": [
+                {
+                    "name": "id",
+                    "type": "String"
+                },
+                {
+                    "name": "intentos",
+                    "type": "Integer"
+                }
+            ],
+            "references": [],
+            "returnType": "String",
+            "type": null
+        }
+    ],
+    "name": "R2_CLS_GiftCard",
+    "namespace": null,
+    "parentClass": "",
+    "properties": [],
+    "tableDeclaration": {
+        "annotations": [],
+        "location": {
+            "column": 27,
+            "line": 11
+        },
+        "modifiers": [
+            "global",
+            "with sharing"
+        ],
+        "name": "R2_CLS_GiftCard",
+        "references": [],
+        "type": "R2_CLS_GiftCard"
+    },
+    "variables": [
+        {
+            "annotations": [],
+            "location": {
+                "column": 81,
+                "line": 85
+            },
+            "modifiers": [],
+            "name": "autoNumberAmazon",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 106,
+                "line": 85
+            },
+            "modifiers": [],
+            "name": "amount",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 122,
+                "line": 85
+            },
+            "modifiers": [],
+            "name": "contador",
+            "references": [],
+            "type": "Integer"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 20,
+                "line": 90
+            },
+            "modifiers": [],
+            "name": "wsMethod",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 25,
+                "line": 95
+            },
+            "modifiers": [],
+            "name": "req",
+            "references": [],
+            "type": "System.HttpRequest"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 20,
+                "line": 101
+            },
+            "modifiers": [],
+            "name": "token",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 42,
+                "line": 126
+            },
+            "modifiers": [],
+            "name": "giftCard",
+            "references": [],
+            "type": "R2_CLS_GiftCard.WPCreateGiftCardWeb_Request"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 21,
+                "line": 140
+            },
+            "modifiers": [],
+            "name": "body",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 19,
+                "line": 143
+            },
+            "modifiers": [],
+            "name": "http",
+            "references": [],
+            "type": "System.Http"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 27,
+                "line": 145
+            },
+            "modifiers": [],
+            "name": "res",
+            "references": [],
+            "type": "System.HttpResponse"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 42,
+                "line": 153
+            },
+            "modifiers": [],
+            "name": "resp",
+            "references": [],
+            "type": "R2_CLS_GiftCard.WPCreateGiftCardWeb_Response"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 25,
+                "line": 171
+            },
+            "modifiers": [],
+            "name": "req",
+            "references": [],
+            "type": "System.HttpRequest"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 42,
+                "line": 172
+            },
+            "modifiers": [],
+            "name": "resp",
+            "references": [],
+            "type": "R2_CLS_GiftCard.WPCreateGiftCardWeb_Response"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 44,
+                "line": 191
+            },
+            "modifiers": [],
+            "name": "WO_id",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 42,
+                "line": 196
+            },
+            "modifiers": [],
+            "name": "resp",
+            "references": [],
+            "type": "R2_CLS_GiftCard.WPCreateGiftCardWeb_Response"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 34,
+                "line": 198
+            },
+            "modifiers": [],
+            "name": "workO",
+            "references": [],
+            "type": "R2_Work_Order__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 36,
+                "line": 204
+            },
+            "modifiers": [],
+            "name": "ExpirationDate",
+            "references": [],
+            "type": "List<String>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 28,
+                "line": 230
+            },
+            "modifiers": [],
+            "name": "fechaValida",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 76,
+                "line": 285
+            },
+            "modifiers": [],
+            "name": "WO_id",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 91,
+                "line": 285
+            },
+            "modifiers": [],
+            "name": "contador",
+            "references": [],
+            "type": "Integer"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 20,
+                "line": 290
+            },
+            "modifiers": [],
+            "name": "wsMethod",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 25,
+                "line": 295
+            },
+            "modifiers": [],
+            "name": "req",
+            "references": [],
+            "type": "System.HttpRequest"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 20,
+                "line": 300
+            },
+            "modifiers": [],
+            "name": "token",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 37,
+                "line": 324
+            },
+            "modifiers": [],
+            "name": "lstCamposWO",
+            "references": [],
+            "type": "List<R2_Work_Order__c>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 42,
+                "line": 326
+            },
+            "modifiers": [],
+            "name": "giftCard",
+            "references": [],
+            "type": "R2_CLS_GiftCard.WPCreateGiftCardWeb_Request"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 21,
+                "line": 341
+            },
+            "modifiers": [],
+            "name": "body",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 19,
+                "line": 345
+            },
+            "modifiers": [],
+            "name": "http",
+            "references": [],
+            "type": "System.Http"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 27,
+                "line": 347
+            },
+            "modifiers": [],
+            "name": "res",
+            "references": [],
+            "type": "System.HttpResponse"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 46,
+                "line": 357
+            },
+            "modifiers": [],
+            "name": "resp",
+            "references": [],
+            "type": "R2_CLS_GiftCard.WPCreateGiftCardWeb_Response"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 52,
+                "line": 390
+            },
+            "modifiers": [],
+            "name": "id",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 64,
+                "line": 390
+            },
+            "modifiers": [],
+            "name": "intentos",
+            "references": [],
+            "type": "Integer"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 30,
+                "line": 394
+            },
+            "modifiers": [],
+            "name": "workOrder",
+            "references": [],
+            "type": "R2_Work_Order__c"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 24,
+                "line": 399
+            },
+            "modifiers": [],
+            "name": "wsMethod",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 29,
+                "line": 404
+            },
+            "modifiers": [],
+            "name": "req",
+            "references": [],
+            "type": "System.HttpRequest"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 24,
+                "line": 410
+            },
+            "modifiers": [],
+            "name": "token",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 29,
+                "line": 431
+            },
+            "modifiers": [],
+            "name": "giftCard",
+            "references": [],
+            "type": "R2_CLS_GiftCard.WR_GiftCard"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 24,
+                "line": 442
+            },
+            "modifiers": [],
+            "name": "body",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 22,
+                "line": 446
+            },
+            "modifiers": [],
+            "name": "http",
+            "references": [],
+            "type": "System.Http"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 30,
+                "line": 447
+            },
+            "modifiers": [],
+            "name": "res",
+            "references": [],
+            "type": "System.HttpResponse"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 38,
+                "line": 452
+            },
+            "modifiers": [],
+            "name": "resp",
+            "references": [],
+            "type": "R2_CLS_GiftCard.WR_GiftCard_Resp"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 36,
+                "line": 460
+            },
+            "modifiers": [],
+            "name": "errores",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 41,
+                "line": 461
+            },
+            "modifiers": [],
+            "name": "error",
+            "references": [],
+            "type": "R2_CLS_GiftCard.WPError"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 38,
+                "line": 471
+            },
+            "modifiers": [],
+            "name": "resp",
+            "references": [],
+            "type": "R2_CLS_GiftCard.WR_GiftCard_Resp"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 36,
+                "line": 482
+            },
+            "modifiers": [],
+            "name": "errores",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 41,
+                "line": 483
+            },
+            "modifiers": [],
+            "name": "error",
+            "references": [],
+            "type": "R2_CLS_GiftCard.WPError"
+        }
+    ]
+}
